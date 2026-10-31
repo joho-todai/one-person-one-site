@@ -46,7 +46,7 @@
 | [三花猫啾啾和咩咩](https://cafe3310.github.io/chocho-miemie-album/) | cafe3310 | 我家有两个三花猫，非常可爱。猫命十五年，她们现在一只七岁一只九岁。我想在还可以的时候让 Gemini 一直记住她们。 | zh-CN | cat, original-character, album |
 | [只是一根毛](https://justmao.com/) | JustMao | 资深软件工程师的独立博客：记录 AI Agent、RAG、后端与信息安全的实践笔记与技术取舍。 | zh-TW | developer, blog, security |
 | [嘿小喵](https://heixiaomiao.topnod.art/) | 嗨皮的小玉米 | 不被定义，自在做猫。嘿小喵，用他专属的喵式哲学与生活和解。生活有点黑，但只要我眼里有光，处处皆光明。 | zh-CN | digital-garden |
-| [情報の灯台](https://joho-todai.com/) | 岬 徹（Toru Misaki） | Japanese-language technology news, explanations and commentary by Toru Misaki, covering PCs, semiconductors, operating systems, AI and security with links to sources. | ja | blog, writer, tech, ai |
+| [情報の灯台](https://joho-todai.com/) | 岬 徹（Toru Misaki） | Technology news, explanations and commentary in Japanese and English, covering PCs, semiconductors, operating systems, AI and security with links to original sources. | ja, en | blog, writer, tech, ai |
 | [权小白](https://quanxb.art/) | 权小白 | 05 后的个人站，只写亲自试过的 AI 工具与实践，记录持续更新的思考与判断。 | zh-CN | developer, writer, ai |
 | [皮普的数字花园](https://pipuwong.com) | Pipu | 设计师与摄影师，记录摄影、设计、代码，以及 NAS 自托管与建站实践。 | zh-CN, en | blog, designer, photographer, digital-garden |
 | [老杨的知识荒原](https://awesomeyang.com) | 老杨 AwesomeYang | 全干工程师、aiwith.me 创始人老杨的个人站：记录十年编程到出海独立开发的历程，附博客与真实运转的作品矩阵。 | zh-CN | developer, blog, indie-hacker, maker |
