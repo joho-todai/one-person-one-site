@@ -207,8 +207,8 @@
     "name": "情報の灯台",
     "url": "https://joho-todai.com/",
     "owner": "岬 徹（Toru Misaki）",
-    "description": "Japanese-language technology news, explanations and commentary by Toru Misaki, covering PCs, semiconductors, operating systems, AI and security with links to sources.",
-    "languages": ["ja"],
+    "description": "Technology news, explanations and commentary in Japanese and English, covering PCs, semiconductors, operating systems, AI and security with links to original sources.",
+    "languages": ["ja", "en"],
     "region": "Japan",
     "tags": ["blog", "writer", "tech", "ai"],
     "feed": ["https://joho-todai.com/pinterest-rss/", "https://joho-todai.com/en/rss/"]
